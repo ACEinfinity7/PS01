@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author acelko
+ *
+ */
+module eclipse {
+}
