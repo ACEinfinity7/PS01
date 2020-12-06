@@ -24,15 +24,9 @@ class BinToHex:
             self.bits = self.bits >> 4
 
 
-
-
-
-
-
-
-
 binToHex = BinToHex(0b10011101)
 binToHex.convert()
+print(binToHex.hexVals)
 
 # print(bin(0b10011101))
 # print(bin(0b10011101 & 0xf))

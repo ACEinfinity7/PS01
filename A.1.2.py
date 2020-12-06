@@ -30,8 +30,12 @@ def make_add_table(size):
     return table
 
 
-print(make_add_table(4))
-
+table = make_add_table(4)
+for i in table:
+    print(i)
+print('h')
+print(table[11][7])
+print(table[4][3])
 
 
 
